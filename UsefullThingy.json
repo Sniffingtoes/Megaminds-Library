@@ -1,7 +1,7 @@
 [
   {
     "Title": "Steam",
-    "ImageUrl": "https://raw.githubusercontent.com/Sniffingtoes/Megaminds-Library/refs/heads/main/Icons/vencord.png",
+    "ImageUrl": "https://raw.githubusercontent.com/Sniffingtoes/Megaminds-Library/refs/heads/main/Icons/Steam.png",
     "Description": "Steam is the ultimate destination for playing, discussing, and creating games.",
     "DownloadUrl": "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe"
   },
