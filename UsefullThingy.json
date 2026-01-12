@@ -7,7 +7,7 @@
   },
   {
     "Title": "Unity",
-    "Description": "Create and grow real-time 3D games, apps, and experiences for entertainment, film, automotive, architecture, and more. Get started with Unity today.",
+    "Description": "The world’s leading platform for creating and operating interactive, real-time 3D games and content.",
     "DownloadUrl": "https://unity.com/download",
     "ByMe": "False"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Title": "Voicemod",
-    "Description": "Boost the way you sound with your squad wherever you hang out, using the leading real-time AI voice changer & soundboard.",
+    "Description": "Change your voice in real-time and add funny sound effects to your games, streams, and calls.",
     "DownloadUrl": "https://www.voicemod.net/en/dwl/app/",
     "ByMe": "False"
   },
@@ -31,7 +31,7 @@
   },
   {
     "Title": "Discord",
-    "Description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+    "Description": "Hang out with your friends and communities. Use Discord to talk, chat, and stay connected via voice and text.",
     "DownloadUrl": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
     "ByMe": "False"
   }
