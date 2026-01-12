@@ -1,13 +1,13 @@
 [
   {
     "Title": "Steam",
-    "Description": "Steam is the ultimate destination for playing games.",
+    "Description": "Steam is bestest game thing.",
     "DownloadUrl": "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe",
     "ByMe": "False"
   },
   {
     "Title": "Unity",
-    "Description": "The world’s leading platform for creating and operating interactive, real-time 3D games and content.",
+    "Description": "The bestest game making engine.",
     "DownloadUrl": "https://unity.com/download",
     "ByMe": "False"
   },
@@ -19,19 +19,19 @@
   },
   {
     "Title": "Voicemod",
-    "Description": "Change your voice in real-time and add funny sound effects to your games, streams, and calls.",
+    "Description": "Cool voice changer thing.",
     "DownloadUrl": "https://www.voicemod.net/en/dwl/app/",
     "ByMe": "False"
   },
   {
     "Title": "Brave",
-    "Description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile.",
+    "Description": "Bestest ever browser frfr.",
     "DownloadUrl": "https://laptop-updates.brave.com/download/BRV013?bitness=64",
     "ByMe": "False"
   },
   {
     "Title": "Discord",
-    "Description": "Hang out with your friends and communities. Use Discord to talk, chat, and stay connected via voice and text.",
+    "Description": "call with your friends and stuff.",
     "DownloadUrl": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
     "ByMe": "False"
   }
