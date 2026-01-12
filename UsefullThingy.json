@@ -3,6 +3,7 @@
     "Title": "Steam",
     "ImageUrl": "https://raw.githubusercontent.com/Sniffingtoes/Megaminds-Library/refs/heads/main/Icons/Steam.png",
     "Description": "Steam is the ultimate destination for playing games.",
+    "DownloadUrl": "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe",
     "ByMe": "False"
   },
   {
