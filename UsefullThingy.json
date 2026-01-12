@@ -10,5 +10,11 @@
     "Description": "A tool for discord with almost endless customization.",
     "DownloadUrl": "https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe",
     "ByMe": "False"
+  },
+  {
+    "Title": "Voice Mod",
+    "Description": "Boost the way you sound with your squad wherever you hang out, using the leading real-time AI voice changer & soundboard.",
+    "DownloadUrl": "https://www.voicemod.net/en/dwl/app/",
+    "ByMe": "False"
   }
 ]
