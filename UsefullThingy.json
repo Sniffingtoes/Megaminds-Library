@@ -53,4 +53,10 @@
     "DownloadUrl": "https://www.oculus.com/download_app/?id=1582076955407037",
     "ByMe": "False"
   }
+  {
+    "Title": "MegamindAI",
+    "Description": "cool ai i make wit ai i never update again",
+    "DownloadUrl": "https://github.com/Sniffingtoes/TuffMegamindAI/releases/download/1.0/MegamindAISetup.exe",
+    "ByMe": "True"
+  }
 ]
