@@ -1,7 +1,7 @@
 [
   {
     "Title": "Vencord",
-    "ImageUrl": "https://picsum.photos/200/120",
+    "ImageUrl": "https://raw.githubusercontent.com/Sniffingtoes/Megaminds-Library/refs/heads/main/Icons/vencord.png",
     "Description": "A tool for discord with almost endless customization",
     "DownloadUrl": "https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe"
   }
