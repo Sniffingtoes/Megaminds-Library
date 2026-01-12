@@ -40,5 +40,23 @@
     "Description": "Cool game launcer with weekly free games",
     "DownloadUrl": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
     "ByMe": "False"
+  },
+  {
+    "Title": "Obs Studio",
+    "Description": "Cool streaming/recording platform",
+    "DownloadUrl": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.0.4-Windows-x64-Installer.exe",
+    "ByMe": "False"
+  },
+  {
+    "Title": "Cap Cut",
+    "Description": "Free cool editing software",
+    "DownloadUrl": "https://www.capcut.com/activity/download_pc",
+    "ByMe": "False"
+  },
+  {
+    "Title": "Meta Link",
+    "Description": "Meta software for casting stuff",
+    "DownloadUrl": "https://www.oculus.com/download_app/?id=1582076955407037",
+    "ByMe": "False"
   }
 ]
