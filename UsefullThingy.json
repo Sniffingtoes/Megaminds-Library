@@ -6,6 +6,12 @@
     "ByMe": "False"
   },
   {
+    "Title": "Unity",
+    "Description": "Create and grow real-time 3D games, apps, and experiences for entertainment, film, automotive, architecture, and more. Get started with Unity today.",
+    "DownloadUrl": "https://unity.com/download",
+    "ByMe": "False"
+  },
+  {
     "Title": "Vencord",
     "Description": "A tool for discord with almost endless customization.",
     "DownloadUrl": "https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe",
@@ -21,6 +27,12 @@
     "Title": "Brave",
     "Description": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile.",
     "DownloadUrl": "https://laptop-updates.brave.com/download/BRV013?bitness=64",
+    "ByMe": "False"
+  },
+  {
+    "Title": "Discord",
+    "Description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+    "DownloadUrl": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
     "ByMe": "False"
   }
 ]
